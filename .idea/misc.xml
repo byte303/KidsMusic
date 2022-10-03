@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/MyProject/KidsMusicApp/app/src/main/res/drawable/background_splash.xml" value="0.2045" />
+        <entry key="..\:/MyProject/KidsMusicApp/app/src/main/res/drawable/ic_fast_forward.xml" value="0.2035" />
+        <entry key="..\:/MyProject/KidsMusicApp/app/src/main/res/drawable/ic_pause.xml" value="0.2045" />
+        <entry key="..\:/MyProject/KidsMusicApp/app/src/main/res/drawable/ic_play.xml" value="0.2045" />
+        <entry key="..\:/MyProject/KidsMusicApp/app/src/main/res/drawable/kill.xml" value="0.2035" />
+        <entry key="..\:/MyProject/KidsMusicApp/app/src/main/res/drawable/notif_next.xml" value="0.2045" />
+        <entry key="..\:/MyProject/KidsMusicApp/app/src/main/res/drawable/notif_pause.xml" value="0.2045" />
+        <entry key="..\:/MyProject/KidsMusicApp/app/src/main/res/drawable/notif_play.xml" value="0.2045" />
+        <entry key="..\:/MyProject/KidsMusicApp/app/src/main/res/drawable/notif_previous.xml" value="0.2045" />
+        <entry key="..\:/MyProject/KidsMusicApp/app/src/main/res/drawable/ripple_button.xml" value="0.2045" />
+        <entry key="..\:/MyProject/KidsMusicApp/app/src/main/res/drawable/telegram.xml" value="0.2045" />
+        <entry key="..\:/MyProject/KidsMusicApp/app/src/main/res/drawable/welcome_icon.xml" value="0.2045" />
+        <entry key="..\:/MyProject/KidsMusicApp/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/MyProject/KidsMusicApp/app/src/main/res/layout/bottom_sheet_sound_info.xml" value="0.33" />
+        <entry key="..\:/MyProject/KidsMusicApp/app/src/main/res/layout/fragment_home.xml" value="0.33" />
+        <entry key="..\:/MyProject/KidsMusicApp/app/src/main/res/layout/list_sound.xml" value="0.196875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
